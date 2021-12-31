@@ -10,11 +10,11 @@
 
 **Talking About Personal Stuff:**
 
-- I’m currently working as a graduate research and teaching assistant at [Universiti Teknologi PETRONAS](https://www.utp.edu.my/Pages/Home.aspx){:target="_blank"} 👨🏽‍🔬👨🏽‍🏫
+- I’m currently working as a graduate research and teaching assistant at <a href="https://www.utp.edu.my/Pages/Home.aspx" target="_blank">Universiti Teknologi PETRONAS</a> 👨🏽‍🔬👨🏽‍🏫
 - Both team player and solo flyer ⚽🦅
 - I am interested in Data science 📊, Algorithms Development 🖥️, AI Applications in Petroleum Engineering 🛢️, and AI Applications in Remote Sensing 🛰️
 - Ask me about anything, I am happy to help 💬
-- Please email ahmedabdulrahman419@gmail.com ✉️ or contact me on [LinkedIn](https://www.linkedin.com/in/ahmed-abdulrahman-75b41a164/) <code><img height="15" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></code></code>
+- Please email ahmedabdulrahman419@gmail.com ✉️ or contact me on <a href="https://www.linkedin.com/in/ahmed-abdulrahman-75b41a164/" target="_blank">LinkedIn</a> <code><img height="15" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></code></code>
   <br/>
   <br/>
   </em>
