@@ -12,7 +12,7 @@
 
 - I’m currently working as a graduate research and teaching assistant at [Universiti Teknologi PETRONAS](https://www.utp.edu.my/Pages/Home.aspx) 👨🏽‍🔬👨🏽‍🏫
 - Both team player and solo flyer ⚽🦅
-- I am interested in Data science 📊, Algorithms Development 🖥️, AI Applications in Petroleum Engineering 🛢️ and AI Applications in Remote Sensing 🛰️
+- I am interested in Data science 📊, Algorithms Development 🖥️, AI Applications in Petroleum Engineering 🛢️, and AI Applications in Remote Sensing 🛰️
 - Ask me about anything, I am happy to help 💬
 - Please email ahmedabdulrahman419@gmail.com ✉️ or contact me on [LinkedIn](https://www.linkedin.com/in/ahmed-abdulrahman-75b41a164/) <code><img height="15" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></code></code>
   <br/>
