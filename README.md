@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I’m a <b>Graduate Engineer</b> <img src="https://emojis.slackmojis.com/emojis/images/1619226441/32795/graduation_knuddels.gif?1619226441" width=30 height=25> and <b>Passionate Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    I’m a <b>Graduate Engineer</b> and <b>Passionate Data Scientist</b> <img src="https://emojis.slackmojis.com/emojis/images/1619226441/32795/graduation_knuddels.gif?1619226441" width=30 height=25> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
   </em>
 </p>
 
