@@ -32,14 +32,6 @@
   </a>
  </p>
 
-### Top Languages
-
-<p align="center">
-<a href = "https://github.com/Ahmed-0357">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=Ahmed-0357&&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
-
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ahmed%20Abdulrahman-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan0725/)](https://www.linkedin.com/in/ahmed-abdulrahman-75b41a164/)[![GitHub Badge](https://img.shields.io/badge/-Ahmed%20Abdulrahman-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/kishan0725)](https://github.com/Ahmed-0357)
