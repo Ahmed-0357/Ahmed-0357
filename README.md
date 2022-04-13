@@ -14,7 +14,7 @@
 - Both team player and solo flyer ⚽🦅
 - I am interested in Data science 📊, Algorithms Development 🖥️, AI Applications in Petroleum Engineering 🛢️, and AI Applications in Remote Sensing 🛰️
 - Ask me about anything, I am happy to help 💬
-- Please email ahmedabdulrahman419@gmail.com ✉️ or contact me on <a href="https://www.linkedin.com/in/ahmed-abdulrahman-75b41a164/" target="_blank">LinkedIn</a> <code><img height="15" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></code></code>
+- For contact pls email ahmedabdulrahman419@gmail.com ✉️
   <br/>
   <br/>
   </em>
@@ -31,7 +31,3 @@
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=Ahmed-0357&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
-
-### Follow me
-
-[![Linkedin Badge](https://img.shields.io/badge/-Ahmed%20Abdulrahman-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan0725/)](https://www.linkedin.com/in/ahmed-abdulrahman-75b41a164/)[![GitHub Badge](https://img.shields.io/badge/-Ahmed%20Abdulrahman-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/kishan0725)](https://github.com/Ahmed-0357)
