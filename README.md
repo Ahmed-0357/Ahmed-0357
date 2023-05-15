@@ -25,10 +25,20 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code> <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code></code> <code><img height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png"></code></code> <code><img height="40" src="https://raw.githubusercontent.com/gilbarbara/logos/8e15f867313827bcd2604e17f0822f1be4739812/logos/tableau-icon.svg"></code></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 
 
+
 ### GitHub Stats
 
 <p align="center">
   <a href = "https://github.com/Ahmed-0357">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=Ahmed-0357&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-0357&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
+ 
+### Top Languages
+
+<p align="center">
+<a href = "https://github.com/Ahmed-0357">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-0357&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
+</p>
+
