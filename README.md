@@ -10,7 +10,7 @@
 
 **Talking About Personal Stuff:**
 
-- I’m currently working as a graduate research and teaching assistant at <a href="https://www.utp.edu.my/Pages/Home.aspx" target="_blank">Universiti Teknologi PETRONAS</a> 👨🏽‍🔬👨🏽‍🏫
+- I’m currently working as a graduate research and teaching assistant at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a> 👨🏽‍🔬👨🏽‍🏫
 - Both team player and solo flyer ⚽🦅
 - I am interested in Data science 📊, Algorithms Development 🖥️, AI Applications in Petroleum Engineering 🛢️, and AI Applications in Remote Sensing 🛰️
 - Ask me about anything, I am happy to help 💬
