@@ -24,38 +24,16 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code> <code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code> <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code> <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code></code> <code><img height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png"></code></code> <code><img height="40" src="https://raw.githubusercontent.com/gilbarbara/logos/8e15f867313827bcd2604e17f0822f1be4739812/logos/tableau-icon.svg"></code></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 
-
-
-### GitHub Stats
-
-<p align="center">
-  <a href = "https://github.com/Ahmed-0357">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-0357&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
- 
-### Top Languages
-
-<p align="center">
-<a href = "https://github.com/Ahmed-0357">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-0357&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
-
 <h2 align="left"><b>Github Statistics:</b></h3>
 <div align="center" >
   <a  href="https://github.com/Ahmed-0357">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-0357&theme=nord_dark">
-  </a>
-  <details>
-    <summary>More stats</summary>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-0357&theme=nord_dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-0357&theme=nord_dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-0357&theme=nord_dark" width="32.5%">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmed-0357&theme=nord_dark&utcOffset=8" >
-    <h4 align="left">Github Metrics Summary:</h4>
-    <img align="center" src="https://metrics.lecoq.io/Ahmed-0357?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" >
-  </details>
+  </a>
+
+  <h4 align="left">Github Metrics Summary:</h4>
+  <img align="center" src="https://metrics.lecoq.io/Ahmed-0357?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" >
 </div>
 <hr></hr>
 
