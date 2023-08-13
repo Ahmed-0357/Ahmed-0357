@@ -25,15 +25,13 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code> <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code></code> <code><img height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png"></code></code> <code><img height="40" src="https://raw.githubusercontent.com/gilbarbara/logos/8e15f867313827bcd2604e17f0822f1be4739812/logos/tableau-icon.svg"></code></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 
 <h2 align="left"><b>Github Statistics:</b></h3>
-<h2 align="left"><b>Github Statistics:</b></h3>
 <div align="center" >
   <a  href="https://github.com/Ahmed-0357">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-0357&theme=zenburn">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-0357&theme=nord_dark">
   </a>
   <details>
     <summary>More stats</summary>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-0357&theme=zenburn" width="32.5%">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmed-0357d&theme=zenburn&utcOffset=8" >
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-0357&theme=nord_dark" width="32.5%">
     <h4 align="left">Github Metrics Summary:</h4>
     <img align="center" src="https://metrics.lecoq.io/Ahmed-0357?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" >
   </details>
