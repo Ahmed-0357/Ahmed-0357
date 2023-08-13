@@ -42,3 +42,20 @@
 </a>
 </p>
 
+<h2 align="left"><b>Github Statistics:</b></h3>
+<div align="center" >
+  <a  href="https://github.com/Ahmed-0357">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-0357&theme=nord_dark">
+  </a>
+  <details>
+    <summary>More stats</summary>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-0357&theme=nord_dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-0357&theme=nord_dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-0357&theme=nord_dark" width="32.5%">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmed-0357&theme=nord_dark&utcOffset=8" >
+    <h4 align="left">Github Metrics Summary:</h4>
+    <img align="center" src="https://metrics.lecoq.io/Ahmed-0357?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" >
+  </details>
+</div>
+<hr></hr>
+
