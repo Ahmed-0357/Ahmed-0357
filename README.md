@@ -24,7 +24,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code> <code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code> <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code> <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code></code> <code><img height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png"></code></code> <code><img height="40" src="https://raw.githubusercontent.com/gilbarbara/logos/8e15f867313827bcd2604e17f0822f1be4739812/logos/tableau-icon.svg"></code></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code> <code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 
-<h2 align="left"><b>Github Statistics:</b></h3>
+<h2 align="left"><b>Github Statistics:</b></h2>
 <div align="center" >
 
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/Ahmed-0357/0-profile-details.svg)
@@ -32,5 +32,4 @@
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/Ahmed-0357/4-productive-time.svg)
 
 </div>
-<hr></hr>
 
